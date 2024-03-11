@@ -16,7 +16,7 @@ import com.solocuts.haircutbookings.model.HaircutInfo;
 
 import org.bson.Document;
 
-//might be up for deletion icl
+//might be up for deletion
 //if i can implement search in the ui side then this will be useless
 
 @Component
